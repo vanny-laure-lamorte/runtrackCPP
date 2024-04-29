@@ -1,0 +1,19 @@
+{
+    "files.autoSaveDelay": 10,
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "git.openRepositoryInParentFolders": "always",
+    "git.autofetch": true,
+    "git.suggestSmartCommit": false,
+    "explorer.confirmDelete": false,
+    "python.defaultInterpreterPath": "C:\\Users\\Vanny Laure Lamorte\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "git.confirmSync": false,
+    "[html]": {
+        "editor.defaultFormatter": "Jota0222.multi-formatter"
+    },
+    "C_Cpp.default.includePath": ["C:/msys64/ucrt64/include/**"],
+    "html.format.indentInnerHtml": true,
+    "window.menuBarVisibility": "compact",
+    "html.format.indentHandlebars": true,
+    "C_Cpp.default.compilerPath": "C:\\msys64\\ucrt64\\bin\\g++.exe"
+}

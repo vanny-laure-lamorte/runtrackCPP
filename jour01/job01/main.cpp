@@ -16,6 +16,5 @@ int main(void) {
     cout <<"z est de type char et a une valeur de " << z << endl; 
     cout <<"w est de type char et a une valeur de " << w << endl; 
 
-
     return 0;
 }
