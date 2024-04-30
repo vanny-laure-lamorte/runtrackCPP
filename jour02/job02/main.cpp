@@ -20,9 +20,12 @@ int main(void)
    }
 
    cout << "Pour n = 0, le resultat est : Nul, Petit";
+    cout << "Pour n = 1, le resultat est Petit: ";
    cout << "Pour n = 4, le resultat est Moyen, Grand: ";
    cout << "Pour n = 10, le resultat est : Grand ";
     cout << "Pour n = -5, le resultat est : Grand"; 
+
+    return 0;
    
 
 }
