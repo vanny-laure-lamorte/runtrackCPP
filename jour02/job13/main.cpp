@@ -33,7 +33,7 @@ int main (void){
         printf("\n");
 
         printf("\t%d", i);
-        
+
         printf("\t|");
 
 
@@ -50,25 +50,3 @@ int main (void){
 
 
 }
-
-
-
-
-//     for ( a = 0; a <= 9; a++) {
-//         cout << a  << endl;
-//     };
-
-//     for ( a = 0; a <= 9; a++ ) {       
-//         cout << b[a] << "-"  << endl;
-//     };
-
-
-//   }
- 
-       
-
-  
-    
-
-
-
