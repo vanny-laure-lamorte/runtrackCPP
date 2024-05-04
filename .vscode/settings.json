@@ -15,5 +15,8 @@
     "html.format.indentInnerHtml": true,
     "window.menuBarVisibility": "compact",
     "html.format.indentHandlebars": true,
-    "C_Cpp.default.compilerPath": "C:\\msys64\\ucrt64\\bin\\g++.exe"
+    "C_Cpp.default.compilerPath": "C:\\msys64\\ucrt64\\bin\\g++.exe",
+    "files.associations": {
+        "ostream": "cpp"
+    }
 }
