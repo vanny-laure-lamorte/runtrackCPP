@@ -27,7 +27,7 @@ int main(void) {
 
     reverseString(a);
 
-    cout << "La chaine de caractere pres l'echange :" << a << endl; 
+    cout << "La chaine de caractere apres l'echange :" << a << endl; 
 
     return 0;
 
