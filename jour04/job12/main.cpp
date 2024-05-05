@@ -2,7 +2,6 @@
 #include <string>
 using namespace std;
 
-
     struct Staff {
         char nom[50]; 
         char prenom[50]; 
@@ -13,9 +12,6 @@ using namespace std;
         char nom[50]; 
         char prenom[50]; 
     };
-
-
-
 
 int main(void) {
 
@@ -31,7 +27,6 @@ int main(void) {
     for (i=0; i<2; i++) {
         cout << staff[i].prenom << " " << staff[i].nom<< endl;
     }; 
-
     
     struct Etudiant etudiant[3]; 
     
