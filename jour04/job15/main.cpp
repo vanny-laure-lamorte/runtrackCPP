@@ -1,31 +1,16 @@
 #include <iostream>
 using namespace std;
 
-int nbMax (int* tab, int taille) {
-    if (taille == 0)
-    return -1;
-
-    int max = *tab;
-    int i = 0; 
-
-    for (i =1 ; i< taille; i++) {
-        if (*(tab+i) > max) {
-            max = *(tab+i);
-        }
-    }
-    return max; 
-}
-
 int main() {
 
-    int tab [5] = {10,2,30,4,50}; 
+    int tab [5] = {1,2,3,4,5}; 
 
-    int taille = sizeof(tab) / sizeof(tab[0]);
+    cout << "Les valeurs du tableau : "<< endl;
 
-    int max = nbMax(tab, taille);
-
-    cout << "La valeur maximale dans le tableau est : " << max << endl; 
+    for (int& valeur : tab) {
+        cout << valeur << endl;
+    };
 
     return 0;
-
 }
+
